@@ -402,9 +402,7 @@ Gain confidence in developing dynamic web applications.
 Learn the importance of teamwork, consistency, and time management.
 
 📸 Project Screenshots
-
-
-
+![Uploading Screenshot (153).png…]()
 
 
 🎓 Internship Details
